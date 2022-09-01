@@ -76,17 +76,17 @@ Players can also purchase Virtual land and in-game Assets as NFTs and Use them a
 ## Build Voxel Game Maker (Needs 1.5-2 months to be completed)
 
 This is the most difficult part of this Game Platform. Creators can use Assets and available scripts to build the Game.
-- Templates of Open World and Puzzles will be available to customize according to Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT into MarketPlace and monetize them. <br />
-- To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Games. <br />
--Users can Combine different Templates/Script to make Innovative Games inside the Metaverse and monetize them into MarketPlace.
-- <b><i>Visual Editor (similar to Unity Bolt)</i></b> for a game where User uses visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode.
+- Templates of Open World and Puzzles will be available to customize according to the Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT on Marketplace and monetize them. <br />
+- To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, that will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of the same template/script to make complex Games. <br />
+- Users can combine different Templates/scripts to make Innovative Games inside the Metaverse and monetize them into the Marketplace. <br/>
+- <b><i>Visual Editor (similar to Unity Bolt)</i><b> for a game where the User uses visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode.
 
-<b><i> The Game-Maker will be a download-able native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded. So we will have Web version of Game Maker for Mini Game and Desktop Apllication for Big Game. Players can Rate and Review these Games according to their Liking.</i></b> <br/>
+<b><i>The Game-Maker will be a downloadable native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded. So we will have a Web version of Game Maker for Mini Game and a Desktop Application for Big Game. Players can Rate and Review these Games according to their Liking.</i></b> <br/>
 
 
 ## [NFT GAME MarketPlace](https://github.com/adi99/NFT_Market)
 <b> The Rating and Review system needs to be added. It will take 10-15 days to finish it </b> <br />
-1- The NFT Game Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game. <br />
-2- Creator can build game with different assets and templates and monetize them by listing in the MarketPlace. <br />
-3- Creator can list both the Assets and Game in the NFT Marketplace and Monetize them according to their Ratings.<br />
-4- The Game in the NFT Marketpalce can be organized according to their Ratings and Reviews.
+1- The NFT Game Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game.<br />
+2- The creator can build games with different assets and templates and monetize them by listing them in the Marketplace. <br />
+3- The creator can list both the Assets and Games in the NFT Marketplace and Monetize them according to their Ratings. <br />
+4- The Game in the NFT Marketplace can be organized according to their Ratings and Reviews.
